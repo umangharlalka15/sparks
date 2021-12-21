@@ -1,6 +1,5 @@
-# BasicBankingSystem
-***I have created the Basic Banking System as an intern for the Sparks Foundation.***
-#GRIPMAY21 
+BasicBankingSystem
+I have created the Basic Banking System as an intern for the Sparks Foundation.
 
 Intern @ Spark Foundation
 
